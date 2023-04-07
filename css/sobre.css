@@ -1,0 +1,64 @@
+@font-face {
+    font-family: fontSobre;
+    src: url(fontes/THEBOLDFONT2022.otf);
+}
+
+@font-face {
+    font-family: fonte2;
+    src: url(fontes/LouisGeorgeCafeBold.ttf);
+}
+.titulo {
+    margin-top: -50px;
+
+}
+
+.cards {
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+
+.logo img {
+    max-width: 110px;
+    border-radius: 50%;
+    position: relative;
+    left: 30px;
+    bottom: 15px;
+    height: 120px;
+}
+
+.titulo {
+    background-color: #ffb56e;
+    
+}
+
+.sobre {
+    font-family: fontSobre;
+    font-size: 25px;
+    
+}
+
+.col img {
+    width: 100%;
+    height: 500px;
+    
+}
+
+
+h2 {
+    text-align: center;
+}
+
+h3 { 
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+
+
+
